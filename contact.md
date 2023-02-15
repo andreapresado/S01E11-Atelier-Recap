@@ -16,7 +16,7 @@ Une question? Une idée? Une proposition?
 > 
 > :telephone: +33(0)7 08 09 10 11
 > 
-> :womanmail: [linkedin](https://fr.linkedin.com/)
+> :work: [linkedin](https://fr.linkedin.com/)
 > 
 > :bird: [twitter](https://twitter.com/?lang=fr)
 
