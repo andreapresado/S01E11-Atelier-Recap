@@ -1,4 +1,4 @@
-# ![desk banner](img/desk-banner.jpg)
+![desk banner](img/desk-banner.jpg)
 
 # John Doe
 
@@ -41,5 +41,6 @@ Loisirs
 
 Musique(triangle cadien) - Combats de robot -Echecs (le jeu)- Clash of Clans
 
-- - - 
+- - -
 
+© 2023 - John Doe - [Me contacter](contact.md)
