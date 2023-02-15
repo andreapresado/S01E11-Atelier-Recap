@@ -16,4 +16,4 @@
 
 - - -
 
-© 2023 - John Doe - [Me contacter](contact.md)
+© 2023 - **John Doe**  - [Me contacter](contact.md)

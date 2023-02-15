@@ -43,4 +43,4 @@ Musique(triangle cadien) - Combats de robot -Echecs (le jeu) - Clash of Clans
 
 - - -
 
-© 2023 - John Doe - [Me contacter](contact.md)
+© 2023 - **John Doe**  - [Me contacter](contact.md)

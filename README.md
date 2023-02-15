@@ -12,4 +12,4 @@ Et si on faisait le coup du bouclier humain? Léodagan et moi on fait semblant d
 
 ---
 
-© 2023 - John Doe - [Me contacter](contact.md)
+© 2023 - **John Doe** - [Me contacter](contact.md)
