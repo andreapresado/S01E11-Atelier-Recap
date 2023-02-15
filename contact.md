@@ -12,13 +12,10 @@ Une question? Une idée? Une proposition?
 
 **Contactez-moi!**
 
-> :envelope: <john.doe@gmail.com>
-> 
-> :telephone: +33(0)7 08 09 10 11
-> 
-> :outbox_tray: [linkedin](https://fr.linkedin.com/)
-> 
-> :bird: [twitter](https://twitter.com/?lang=fr)
+> ✉ <john.doe@gmail.com></br>
+> 📞 +33(0)7 08 09 10 11</br>
+> 👩‍💻 [linkedin](https://fr.linkedin.com/)</br>
+> 🐦 [twitter](https://twitter.com/?lang=fr)</br>
 
 A bientôt !
 
