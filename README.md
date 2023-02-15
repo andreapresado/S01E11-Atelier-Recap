@@ -1,4 +1,4 @@
-![desk banner](img/desk-banner.jpg)
+# ![desk banner](img/desk-banner.jpg)
 
 # **John Doe**
 
