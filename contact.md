@@ -16,7 +16,7 @@ Une question? Une idée? Une proposition?
 > 
 > :telephone: +33(0)7 08 09 10 11
 > 
-> :work: [linkedin](https://fr.linkedin.com/)
+> :outbox_tray: [linkedin](https://fr.linkedin.com/)
 > 
 > :bird: [twitter](https://twitter.com/?lang=fr)
 
